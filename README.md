@@ -1,1 +1,125 @@
-# EchoWhisper.github.io
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Kojagiri Poornima 2025 Celebration</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4a90e2;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 1rem;
+        }
+        h1 {
+            font-size: 2rem;
+        }
+        a {
+            color: #4a90e2;
+            text-decoration: none;
+        }
+        .event-schedule, .contact-info, .stay-info {
+            background-color: #ffffff;
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 1rem;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .event-schedule ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            font-size: 0.9rem;
+            color: #777;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>🌕 Kojagiri Poornima 2025 Celebration 🌕</h1>
+        <p>✨ Experience the magic under the full moon! ✨</p>
+    </header>
+
+    <div class="container">
+        <p><strong>📍 Location:</strong> <a href="https://share.google/vM7S2AfxBDWT0FvA0" target="_blank">Echo Whisper, Nive, Tamhini</a></p>
+        <p><strong>📅 Date:</strong> October 5th – 6th, 2025</p>
+
+        <p>On the magical full moon night of Kojagiri Purnima, let’s come together under the stars 🌌 to slow down, connect with nature 🌿, enjoy soulful live music 🎵, delicious food 🍛, and meaningful conversations about community living & sustainability 🌱.</p>
+
+        <div class="event-schedule">
+            <h2>🌟 Event Schedule</h2>
+            
+            <h3>🗓️ 5th October</h3>
+            <ul>
+                <li>🕒 3:00 PM – Arrival at Echo Whisper</li>
+                <li>🍹 4:00 PM – Refreshing welcome drinks</li>
+                <li>🌳 Roam, explore, and connect with fellow attendees</li>
+                <li>🍽️ 6:30 PM – 7:30 PM – Dinner (Simple Indian delights)</li>
+                <li>🎵 8:00 PM – 10:00 PM – Live Music by Uday Ramdas + Kojagiri masala milk</li>
+                <li>🔥 After 10:00 PM – Hot pizzas from the mud oven 🍕</li>
+                <li>🌙 11:00 PM – Wind down for the night</li>
+            </ul>
+
+            <h3>🌄 6th October</h3>
+            <ul>
+                <li>🎶 7:00 AM – 8:00 AM – Soulful Hangpan & Flute session</li>
+                <li>☕ 8:00 AM – 10:00 AM – Session Conclusion, Breakfast & tea/coffee</li>
+                <li>🚗 10:00 AM – Head back home</li>
+            </ul>
+        </div>
+
+        <p><strong>💸 Contribution:</strong> ₹3,500 per person <br> (GPay: 9372412170)</p>
+
+        <div class="contact-info">
+            <h2>📞 Contact for Details</h2>
+            <ul>
+                <li>Gauri Bhagat – 9372412170</li>
+                <li>Ishan Saini – 9823807660</li>
+                <li>Satyendra Bhagat – 9325556630</li>
+            </ul>
+        </div>
+
+        <p>🎶 Experience meditative, divine music with <strong>Uday Ramdas</strong> (renowned composer & disciple of Ustad Alla Rakha Sahab) and professional flute player <strong>Azahar Shaikh</strong> under the full moon.</p>
+
+        <div class="stay-info">
+            <h2>🏕️ Stay Info</h2>
+            <ul>
+                <li>Basic tents available OR sleep under the stars</li>
+                <li>Nearby accommodations available for your convenience</li>
+                <li>Community spirit encouraged: Help in cooking, pizza making, setting up the venue 🍳</li>
+                <li>Eco-conscious living: Minimal electricity & water use 💡🚿 | Dry toilets</li>
+            </ul>
+        </div>
+
+        <p><strong>🌱 What is EChO-Whisper?</strong><br>
+        It is a "real-life lab" to explore how to coexist with nature 💚 – initiated by Satyendra and Gauri.</p>
+
+        <p><strong>👉 Don’t miss it! RSVP now & spread the word!</strong></p>
+    </div>
+
+    <footer>
+        Made with 🌕 and 💚 for Kojagiri Poornima 2025
+    </footer>
+
+</body>
+
+</html>
